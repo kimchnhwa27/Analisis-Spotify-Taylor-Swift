@@ -1,6 +1,6 @@
 # Analisis-Spotify-Taylor-Swift
 
-Repository untuk Tableau Spotify Taylor Swift.
+Repository Tableau Spotify Taylor Swift.
 
 ## Visualisasi Dasbor
 Anda dapat melihat hasil analisis visualisasi di sini:
